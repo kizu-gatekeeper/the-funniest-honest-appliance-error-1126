@@ -1,7 +1,7 @@
 """Entry for make.fun: The Funniest Honest Appliance Error.
 
-One honest error message from a washing machine that finally
-admits the unbalanced load was never the laundry.
+One brutally honest error message from a washing machine that
+finally admits the unbalanced load was never the laundry.
 """
 import os
 
